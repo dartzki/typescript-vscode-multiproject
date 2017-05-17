@@ -1,0 +1,9 @@
+{
+  "name": "typescript-vscode-multiproject",
+  "description": "typescript multiproject test",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^2.4.0-dev.20170517"
+  }
+}
